@@ -18,5 +18,8 @@ article>p:nth-child(even) {
   color: orange;
 }
 header>p:nth-child(even) {
-  color: tomato;
+  color: rgb(202, 38, 9);
+}
+header>p:nth-child(odd) {
+  color: blue;
 }
