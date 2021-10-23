@@ -9,4 +9,8 @@ header h1 {
 article h1 {
   color: green;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+}
+article>p:nth-child(odd) {
+  color: blueviolet;
 }
