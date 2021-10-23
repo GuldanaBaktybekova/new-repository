@@ -26,9 +26,13 @@ header>p:nth-child(odd) {
 blockquote {
   color: rgb(216, 127, 141);
 }
+li {
+  color: tomato;
+}
 li:nth-of-type(3) {
   color: gold;
 }
 li {
   list-style-type:square;
+  
 }
