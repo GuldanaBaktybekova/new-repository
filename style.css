@@ -14,3 +14,9 @@ article h1 {
 article>p:nth-child(odd) {
   color: blueviolet;
 }
+article>p:nth-child(even) {
+  color: orange;
+}
+header>p:nth-child(even) {
+  color: tomato;
+}
