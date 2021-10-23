@@ -7,7 +7,7 @@ header h1 {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 article h1 {
-  color: green;
+  color: rgb(124, 0, 128);
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 30px;
 }
@@ -22,4 +22,7 @@ header>p:nth-child(even) {
 }
 header>p:nth-child(odd) {
   color: blue;
+}
+blockquote {
+  color: pink;
 }
